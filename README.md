@@ -75,7 +75,7 @@
 
 ## 🏟️ Anfield Mentality, Dev Mindset
 
-🔴 **"At Anfield, we believe anything is possible"** — Just like my backend skills, where scalability and performance are always top-notch!⚡
+🔴 **"At Anfield, we believe anything is possible"** — Just like my backend skills, where scalability and performance are always top-notch⚡
 
 🔴 **"Liverpool creates magic under the lights"** — Just like my APIs, smooth and efficient no matter how intense the pressure is! 🏆
 
