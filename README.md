@@ -6,9 +6,9 @@
 
 👋 Oi Scousers! I'm **Saksham Chouhan**, a Full Stack Developer and an absolute **backend beast**. Just like **Liverpool FC**, I never back down from a challenge! I specialize in **Node.js, Express.js, MongoDB**, and I make APIs look as smooth as a **Salah dribble**. 💨
 
-- 🔴 Passionate about building **high-performance web applications**
-- 🔴 Always up for a challenge—like a **UCL night at Anfield**
-- 🔴 Love solving problems faster than **Trent’s crosses**
+🔴 Passionate about building high-performance web applications
+🔴 Always up for a challenge—like a UCL night at Anfield
+🔴 Love solving problems faster than Trent's crosses
 
 ---
 
