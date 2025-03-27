@@ -1,6 +1,6 @@
 # 👑 Saksham Chouhan — The Backend King ⚡🔥
 
-![Liverpool Banner](Anfield.jpg)
+<img src="Anfield.jpg" width="850" height="317" alt="Description">
 
 ## 🚀 About Me
 
