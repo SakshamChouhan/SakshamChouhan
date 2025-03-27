@@ -83,4 +83,17 @@
 
 🔴 **"This Means More"** — To me, backend development isn’t just coding, it’s about **building legendary systems**! ❤️
 
+
+<img src="kop.jpg" width="850" height="457" alt="Description">
+
+## 🎶 The Kop Sings, I Code 🎶
+
+⚡ **"We are Liverpool. This means more."** — Just like my passion for backend development, it's more than just code, it's a way of life! 🔴
+
+⚡ **"Poetry in motion, walking on the air"** — Just like my seamless API integrations, everything flows beautifully! ✨
+
+⚡ **"The best teams have no egos, just unity"** — Like my scalable architectures, everything works together in perfect harmony! 🔥
+
+⚡ **"Form is temporary, class is permanent."** — Just like my problem-solving skills, I’m always adapting and evolving! ❤️
+
 🔥 **You'll Never Walk Alone!** 🚩
