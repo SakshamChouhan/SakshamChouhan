@@ -86,6 +86,8 @@
 
 <img src="kop.jpg" width="850" height="457" alt="Description">
 
+---
+
 ## 🎶 The Kop Sings, I Code 🎶
 
 ⚡ **"We are Liverpool. This means more."** — Just like my passion for backend development, it's more than just code, it's a way of life! 🔴
@@ -97,5 +99,7 @@
 ⚡ **"Form is temporary, class is permanent."** — Just like my problem-solving skills, I’m always adapting and evolving! ❤️
 
 <img src="Anfield.jpg" width="850" height="457" alt="Description">
+
+---
 
 🔥 **You'll Never Walk Alone!** ❤️
