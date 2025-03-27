@@ -81,6 +81,6 @@
 
 🔴 **"The Kop never stops believing"** — Just like me, always pushing code to the limits, never settling for mediocrity! 💯
 
-🔴 **"This Means More"** — To me, backend development isn’t just coding, it’s about **building legendary systems**! 🚀
+🔴 **"This Means More"** — To me, backend development isn’t just coding, it’s about **building legendary systems**! ❤️
 
-🔥 **You'll Never Walk Alone!** 🔥
+🔥 **You'll Never Walk Alone!** 🚩
