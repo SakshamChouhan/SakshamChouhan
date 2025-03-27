@@ -1,6 +1,6 @@
 # 👑 Saksham Chouhan — The Backend King ⚡🔥
 
-<img src="Anfield.jpg" width="850" height="317" alt="Description">
+<img src="Anfield.jpg" width="850" height="417" alt="Description">
 
 ## 🚀 About Me
 
