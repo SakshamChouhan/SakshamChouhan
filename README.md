@@ -39,6 +39,14 @@
 ✅ **Next.js, TypeScript, Google OAuth, Tailwind CSS**  
 📌 Manage & organize Google Calendar events seamlessly. 
 
+📂 **[File to Google Drive Uploader](https://github.com/SakshamChouhan/file-to-drive)**  
+✅ **Node.js, Express.js, Google Drive API**  
+📌 Upload and manage files directly on Google Drive using this seamless API integration.
+
+💼 **[Job Portal Backend](https://github.com/SakshamChouhan/job-portal-backend)**  
+✅ **Node.js, Express.js, MongoDB**  
+📌 Scalable backend for job portal applications, featuring authentication, job listings, and user management.
+
 ⚡ **[Web Text to PDF Chrome Extension](https://github.com/SakshamChouhan/web-text-to-pdf)**  
 ✅ **JavaScript, Node.js, Express.js**  
 📌 Convert web page text into downloadable PDFs like a **pro**! 
@@ -46,6 +54,7 @@
 🔒 **[AuthAPI](https://github.com/SakshamChouhan/authAPI)**  
 ✅ **Node.js, Express.js, JWT Authentication**  
 📌 Secure user authentication system built with **Nodemailer & JWT**.
+
 
 ---
 
