@@ -1,6 +1,6 @@
 # 👑 Saksham Chouhan — The Backend King ⚡🔥
 
-<img src="kop.jpg" width="850" height="457" alt="Description">
+<img src="staduim.jpg" width="850" height="457" alt="Description">
 
 ## 🚀 About Me
 
