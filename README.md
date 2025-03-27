@@ -96,4 +96,6 @@
 
 ⚡ **"Form is temporary, class is permanent."** — Just like my problem-solving skills, I’m always adapting and evolving! ❤️
 
+<img src="Anfield.jpg" width="850" height="457" alt="Description">
+
 🔥 **You'll Never Walk Alone!** 🚩
