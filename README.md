@@ -28,7 +28,7 @@
 - 🔵 **Tailwind CSS**, **Bootstrap**, **Material UI** — Sleek UI like Liverpool’s kit 🏆
 
 ### ☁️ Cloud & DevOps
-- ☁️ **Vercel**, **Netlify** — Deployed faster than a counterattack 🚀
+- ☁️  **AWS**,**Vercel**, **Netlify** — Deployed faster than a counterattack 🚀
 - ☁️ **Git**, **GitHub** — Version control, like Klopp controlling the game 🎯
 
 ---
