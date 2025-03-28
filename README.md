@@ -1,10 +1,10 @@
-# 👑 Saksham Chouhan — The Backend King ⚡🔥
+# Hi 👋, I'm Saksham Chouhan
 
 <img src="stand.jpg" width="850" height="457" alt="Description">
 
 ## 🚀 About Me
 
-### 👋 Oi Scousers! I'm **Saksham Chouhan**, a Full Stack Developer and an absolute **backend beast**. 
+### 👋 Oi Scousers! I'm **Saksham Chouhan**, a Full Stack Developer and an absolute **backend focused**. 
 
   Just like **Liverpool FC**, I never back down from a challenge! I specialize in **Node.js, Express.js, MongoDB**, and I make APIs look as smooth as a **Salah dribble**. 💨
 
