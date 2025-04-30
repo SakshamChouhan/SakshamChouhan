@@ -55,6 +55,10 @@
 ✅ **Node.js, Express.js, JWT Authentication**  
 📌 Secure user authentication system built with **Nodemailer & JWT**.
 
+🤖 **[LinkedIn Content AI Agent](https://github.com/SakshamChouhan/linkedin-content-ai-agent)**
+✅ **Streamlit, MongoDB, OpenAI API, Python**
+📌 Analyze LinkedIn profiles and generate personalized post ideas using AI. Includes profile analysis, content insights, post generator, and feedback dashboard.
+
 
 ---
 
