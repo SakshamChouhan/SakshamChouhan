@@ -55,7 +55,7 @@
 ✅ **Node.js, Express.js, JWT Authentication**  
 📌 Secure user authentication system built with **Nodemailer & JWT**.
 
-🔒 **[AuthAPI](https://github.com/SakshamChouhan/authAPI)**  
+🔒 **[LinkedIn Content AI Agent](https://github.com/SakshamChouhan/linkedin-content-ai-agent)**  
 ✅ **Node.js, Express.js, JWT Authentication**  
 📌 Secure user authentication system built with **Nodemailer & JWT**.
 
